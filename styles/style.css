@@ -103,7 +103,7 @@
   vertical-align: middle;
 }
 
-.card__img--cepia {
+.card__img--sepia {
   filter: sepia(0.3);
 }
 
