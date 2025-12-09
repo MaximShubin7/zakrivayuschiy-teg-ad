@@ -103,6 +103,10 @@
   vertical-align: middle;
 }
 
+.card__img--cepia {
+  filter: sepia(0.3);
+}
+
 .card__img--brightness {
   filter: brightness(150%);
 }
